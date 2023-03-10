@@ -175,3 +175,10 @@ p {
 #prices th {
   text-align: left;
 }
+
+/* Submit button */
+input[type=submit] {
+  background-color: var(--primaryColor);
+  padding: 12px 25px;
+  color: var(--primaryWhite);
+}
